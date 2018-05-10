@@ -1,0 +1,43 @@
+.sacola {
+	background: url(/home/pentest/Documentos/WEB/img/sacola.png) no-repeat top right;
+	font-size: 14px;
+	padding-top: 8px;
+	padding-right: 35px;
+	text-align: right;
+	width: 140px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-top: 10px;
+}
+
+.menu-opcoes ul li {
+	font-size: 15px;
+	display: inline;
+	margin-left: 20px;
+
+}
+
+.menu-opcoes a {
+	color: #003366;
+}
+
+body {
+	color: #333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+}
+
+header {
+	position: relative;
+}
+
+.menu-opcoes {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
